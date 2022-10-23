@@ -1,0 +1,130 @@
+actinium
+actinoid
+alga
+aluminum
+amalgam
+americium
+barium
+basic metal
+berkelium
+beryllium
+bismanol
+bismuth
+bohrium
+brass
+bronze
+cadmium
+calcium
+californium
+carbon steel
+cast iron
+cerium
+cesium
+chromium
+cobalt
+copernicium
+copper
+cupronickel
+curium
+darmstadtium
+dubnium
+dysprosium
+einsteinium
+electrum
+elgiloy
+elinvar
+erbium
+europium
+fermium
+fernico
+ferrochrome
+ferronickel
+flerovium
+francium
+gadolinium
+gallium
+galvanized iron
+galvanized steel
+gold
+hafnium
+hassium
+holmium
+indium
+invar
+iridium
+iron
+iron hydride
+kovar
+lanthanum
+lawrencium
+lead
+lead oxide
+lithium
+livermorium
+lockalloy
+lutetium
+magnesium
+manganese
+meitnerium
+mendelevium
+mercury
+molten metal
+molybdenum
+moscovium
+neodymium
+neptunium
+nichrome
+nickel
+nihonium
+niobium
+nobelium
+Nordic gold
+osmium
+palladium
+pewter
+pig iron
+platinum
+plutonium
+potassium
+praseodymium
+promethium
+protactinium
+radium
+rare-earth metal
+rhenium
+rhodium
+roentgenium
+rose gold
+rose metal
+rubidium
+rust
+ruthenium
+rutherfordium
+samarium
+scandium
+seaborgium
+silver
+sodium
+solder
+stainless steel
+steel
+sterling silver
+strontium
+tantalum
+technetium
+terbium
+thallium
+thorium
+thulium
+tin
+titanium
+tungsten
+uranium
+vanadium
+waxed metal
+Wood's metal
+wrought iron
+ytterbium
+yttrium
+zinc
+zirconium

@@ -1,0 +1,409 @@
+
+aardvark
+aardwolf
+addax
+African buffalo
+African bush elephant
+African civet
+African forest elephant
+African wild dog
+African wildcat
+afrothere
+agouti
+alpaca
+American bison
+American black bear
+American red squirrel
+Angora goat
+Angora rabbit
+anteater
+antelope
+aoudad
+ape
+aquatic mammal
+arctic fox
+arctic hare
+argali
+armadillo
+Asian black bear
+Asian elephant
+Asian golden cat
+aye-aye
+babirusa
+baboon
+Bactrian camel
+badger
+baiji dolphin
+bandicoot
+bat
+bay cat
+beagle
+bear
+bear cub
+beaver
+beefalo
+beluga whale
+Bengal cat
+bighorn sheep
+billy goat
+binturong
+bison
+black bear
+black cat
+black panther
+black rat
+black squirrel
+blesbok
+blue whale
+boar
+bobcat
+bonobo
+bontebok
+Borzoi
+bovid
+bovine
+boxer
+brown bear
+brown rat
+buffalo
+bull
+bull terrier
+bulldog
+bush baby
+bush dog
+calf
+camel
+camelid
+canid
+caniformian
+caprine
+capuchin monkey
+capybara
+carabao
+caracal
+carnivoran
+cashmere goat
+cat
+cattle
+caveman
+cetacean
+chamois
+cheetah
+chihuahua
+chimpanzee
+chinchilla
+chipmunk
+civet
+coati
+cocker spaniel
+colugo
+corgi
+cougar
+cow
+coyote
+culpeo
+cyborg
+dachshund
+Dalmatian
+deer
+deer mouse
+degu
+desert hare
+dhole
+dik-dik
+dingo
+Dobermann
+dog
+dolphin
+domestic rabbit
+domestic water buffalo
+domestic yak
+donkey
+dormouse
+dromedary camel
+dugong
+eastern gorilla
+eastern gray squirrel
+eastern lowland gorilla
+echidna
+eland
+elephant
+elephant seal
+elephant shrew
+elk
+equid
+ermine
+eulipotyphlan
+European rabbit
+European wildcat
+even-toed ungulate
+ewe
+fallow deer
+fancy rat
+felid
+feliformian
+female buffalo
+female goat
+fennec fox
+ferret
+fisher cat
+flying squirrel
+fossa
+fox
+French bulldog
+fruit bat
+fur seal
+gaur
+gazelle
+gelada
+gemsbok
+gerbil
+German shepherd
+giant forest hog
+giant panda
+gibbon
+giraffe
+giraffid
+glire
+goat
+Gobi bear
+golden retriever
+goral
+gorilla
+great ape
+greater kudu
+grizzly bear
+grolar bear
+ground squirrel
+groundhog
+guanaco
+guide dog
+guinea pig
+gundi
+hairless rat
+hamster
+hare
+hartebeest
+hedgehog
+highland cattle
+Himalayan cat
+hinny
+hippopotamus
+Homo erectus
+honey badger
+horse
+hound
+house mouse
+howler monkey
+human
+humpback whale
+husky
+hyena
+hyrax
+hystricomorph
+ibex
+impala
+jack
+jackal
+jaguar
+jaguarundi
+jenny
+jerboa
+kangaroo
+kangaroo rat
+Kermode bear
+kinkajou
+koala
+kudu
+laboratory rat
+labradoodle
+labrador retriever
+lagomorph
+lamb
+lemming
+lemur
+leopard
+leopard seal
+lesser kudu
+liger
+lion
+lioness
+llama
+lynx
+macaque
+macropod
+Maine Coon
+male lion
+male tiger
+manatee
+mandrill
+maned wolf
+mare
+margay
+markhor
+marmoset
+marmot
+marsupial
+marten
+meerkat
+miniature pig
+mink
+mole
+mongoose
+monkey
+monotreme
+moose
+mouflon
+mountain goat
+mountain gorilla
+mouse
+mule
+mummy
+muntjac
+muroid
+musk deer
+muskox
+muskrat
+mustang
+mustelid
+naked mole-rat
+narwhal
+numbat
+nutria
+ocelot
+odd-toed ungulate
+okapi
+onager
+opossum
+orangutan
+orca
+Oriental shorthair
+oryx
+otter
+ovine
+ox
+pack rat
+paenungulate
+pangolin
+peccary
+pecora
+Persian cat
+pig
+pika
+pine squirrel
+pink fairy armadillo
+pinniped
+pit bull
+placental mammal
+platypus
+pocket gopher
+polar bear
+pony
+poodle
+porcupine
+porpoise
+possum
+prairie dog
+primate
+proboscis monkey
+procyonid
+pronghorn
+pug
+pygmy hog
+Qinling panda
+quokka
+quoll
+rabbit
+raccoon
+raccoon dog
+ragdoll cat
+ram
+rat
+red deer
+red fox
+red panda
+red squirrel
+reindeer
+retriever
+rhesus macaque
+rhinoceros
+rodent
+roe deer
+rottweiler
+ruminant
+Russian Blue
+sable
+Saint Bernard
+saola
+Schnauzer
+sea lion
+sea otter
+seal
+serval
+service dog
+sheep
+shiba inu
+shorthair cat
+shrew
+Siamese cat
+silver fox
+sirenian
+skunk
+sloth
+sloth bear
+snow leopard
+snub-nosed monkey
+spaniel
+spectacled bear
+sperm whale
+Sphynx cat
+spider monkey
+spotted hyena
+springbok
+squirrel
+stallion
+stoat
+sugar glider
+suid
+sun bear
+tapir
+tarsier
+Tasmanian devil
+tenrec
+terrier
+therian
+tiger
+tigon
+tigress
+toy bulldog
+tree squirrel
+ungulate
+urial
+vaquita
+vicuña
+viking
+vole
+wallaby
+walrus
+warthog
+water buffalo
+waterbuck
+weasel
+western gorilla
+western lowland gorilla
+whale
+white tiger
+white-lipped deer
+white-tailed deer
+wild Bactrian camel
+wildcat
+wildebeest
+wolf
+wolverine
+wombat
+xenarthran
+yak
+yellow baboon
+zebra
+zebu
+zorse

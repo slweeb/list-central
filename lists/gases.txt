@@ -1,0 +1,63 @@
+acetylene
+aerosol
+air
+ammonia
+argon
+bubble
+burp
+butane
+carbon dioxide
+carbon monoxide
+carbon trioxide
+chlorine
+cloud
+cyanide
+deuterium
+dimethyl ether
+dry ice
+ethane
+ethylene
+fire
+flatulence
+fluorine
+fluoroform
+foam
+fog
+formaldehyde
+freon
+germane
+greenhouse gas
+hair spray
+helium
+hydrogen
+hydrogen atom
+hydrogen fluoride
+hydrogen sulfide
+isobutane
+krypton
+methane
+mist
+mustard gas
+natural gas
+neon
+nitric oxide
+nitrogen
+nitrogen dioxide
+nitrous oxide
+noble gas
+oxygen
+ozone
+phosphine
+propane
+propylene
+propyne
+radon
+smog
+smoke
+sneeze
+steam
+sulfur dioxide
+sulfur hexafluoride
+vapor trail
+volcanic gas
+xenon

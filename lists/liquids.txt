@@ -1,0 +1,389 @@
+absinthe
+acetic acid
+acetone
+acid rain
+acrylic paint
+aftershave
+aioli
+alcohol
+ale
+Alfredo sauce
+almond milk
+ambrosia
+Americano
+aniline
+anisette
+apple cider
+apple juice
+apricot juice
+atole
+attack potion
+baby oil
+balsamic vinegar
+banana juice
+barbecue sauce
+bathwater
+batter
+beef stew
+beer
+beet juice
+benzene
+beverage
+bile
+bisque
+black coffee
+black tea
+blackberry juice
+bleach
+blood
+blood plasma
+Bloody Mary
+blueberry juice
+bodily fluid
+body wash
+borscht
+bourbon
+brandy
+bromine
+bromoform
+broth
+brown sugar syrup
+bubble tea
+buffalo milk
+Buffalo sauce
+buttermilk
+calamine
+canola oil
+cappuccino
+caramel
+carbonara
+carbonated water
+carmine
+carrot juice
+carrot soup
+catechu
+cement
+cephalopod ink
+chamomile tea
+champagne
+cheddar sauce
+cheese sauce
+cherry juice
+chestnut dye
+chicken broth
+chicken noodle soup
+chili
+chili sauce
+chloroform
+chocolate milk
+chocolate syrup
+chowder
+cider
+citrus juice
+civet musk
+cocktail
+coconut milk
+coconut oil
+coconut water
+coffee
+cognac
+Cointreau
+cold medicine
+corn oil
+corn syrup
+correction fluid
+cottonseed oil
+cow milk
+cranberry juice
+cream
+cyclohexane
+cyclopentane
+cytoplasm
+decaf
+decane
+defense potion
+detergent
+dew
+diarrhea
+diesel fuel
+diet soda
+Dijon mustard
+dirty water
+dish soap
+distilled water
+dye
+earwax
+ectoplasm
+egg white
+egg yolk
+eggnog
+electrolyte
+energy drink
+espresso
+essential oil
+eye drop
+eyelash glue
+fictional liquid
+fish sauce
+flaxseed oil
+flower dye
+food coloring
+formic acid
+French dressing
+fresco
+freshwater
+fruit dye
+fruit milk
+fruit punch
+fruit syrup
+gasoline
+gin
+gin and tonic
+ginger ale
+ginger beer
+glacier water
+glue
+glycerol
+goat milk
+goulash
+grape juice
+grapefruit juice
+gravy
+grease
+green tea
+hair conditioner
+hair dye
+hand sanitizer
+health potion
+heavy water
+hemp milk
+heptane
+herbal tea
+hexane
+hibiscus tea
+high-fructose corn syrup
+hoisin sauce
+Hollandaise sauce
+holy water
+honey
+honey mustard
+hot chocolate
+hot sauce
+hydrochloric acid
+hydrofluoric acid
+hydrogen peroxide
+iced coffee
+iced latte
+iced tea
+Indian yellow
+indigo
+ink
+Irish stew
+isopropyl alcohol
+juice
+ketchup
+kirschwasser
+kiwi juice
+lac
+latex
+latte
+lava
+lavender oil
+lean
+lemon juice
+lemon water
+lemonade
+licorice
+lime juice
+limeade
+lipgloss
+liqueur
+liquid oxygen
+liquor
+lotion
+love potion
+macadamia milk
+macchiato
+magma
+mana potion
+mango juice
+maple sap
+maple syrup
+maraschino
+margarita
+marinara sauce
+martini
+masala chai
+mate
+mayonnaise
+mead
+meat sauce
+melon juice
+melted butter
+melted cheese
+melted chocolate
+melted wax
+mercury
+methanol
+milk
+milkshake
+mineral water
+miso soup
+moisturizer
+mojito
+molasses
+molten metal
+molten rock
+mora
+mouthwash
+mucus
+mushroom soup
+mustard
+napalm
+natural dye
+natural liquid
+nectar
+nitric acid
+nitroglycerin
+nitrous acid
+nonane
+nutmeg oil
+oat milk
+octane
+oil
+oil and vinegar
+oil paint
+ointment
+olive oil
+opium
+orange juice
+orangeade
+oyster sauce
+paint
+palm oil
+pea milk
+peach juice
+peanut milk
+peanut oil
+pentane
+peppermint oil
+perfume
+pesto
+petroleum
+pho
+pickling solution
+pilk
+piña colada
+pineapple juice
+pink lemonade
+plant oil
+pomegranate juice
+pool water
+poppyseed oil
+potion
+primordial soup
+printer ink
+propylene glycol
+protein shake
+pulque
+pumpkin spice latte
+pus
+quicksand
+rabbit stew
+rain
+ramen
+ranch dressing
+red wine
+rhubarb dye
+rice milk
+root beer
+root beer float
+rose water
+rouille
+roux
+royal jelly
+rubbing alcohol
+rum
+sake
+salad dressing
+saliva
+salsa
+salsa cruda
+salsa roja
+salt water
+sangria
+sap
+sauce
+schnapps
+semen
+sesame oil
+shampoo
+shaving cream
+sheep milk
+skimmed milk
+slime
+slush
+smoothie
+soda
+sodium hypochlorite
+soft drink
+solution
+soup
+soy milk
+soy sauce
+soybean oil
+speed potion
+spring water
+squalane
+squalene
+steak sauce
+stomach acid
+strawberry juice
+strawberry milk
+sugar syrup
+sugar water
+sugarcane juice
+sulfuric acid
+sunflower oil
+sunscreen
+super glue
+sweat
+sweet and sour sauce
+sweet tea
+syrup
+Szechuan sauce
+tap water
+tar
+tart cherry juice
+tartar sauce
+tea
+tears
+tequila
+toilet cleaner
+toluene
+tomato juice
+tomato sauce
+tonic water
+triple sec
+turpentine
+urine
+urushiol
+vaccine
+vaginal discharge
+vegetable oil
+venom
+vinaigrette
+vinegar
+vodka
+vomit
+water
+watercolor paint
+watermelon juice
+whale oil
+whey
+whipped cream
+whiskey
+white wine
+wine
+Worcestershire sauce
+yellow tea

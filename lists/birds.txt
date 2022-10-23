@@ -1,0 +1,124 @@
+Adélie penguin
+albatross
+bald eagle
+barn owl
+bird-of-paradise
+blue jay
+blue-footed booby
+bluebird
+booby
+buzzard
+Canadian goose
+canary
+caracara
+cardinal
+cassowary
+chick
+chick
+chickadee
+chicken
+cockatiel
+cockatoo
+condor
+cormorant
+corvid
+crane
+crow
+cuckoo
+domestic duck
+domestic pigeon
+domestic turkey
+dove
+duck
+duckling
+eagle
+emperor penguin
+emu
+falcon
+female bird
+finch
+flamingo
+flightless bird
+fowl
+galah
+Galápagos finch
+goldfinch
+goose
+gray parrot
+great tit
+guineafowl
+hawk
+hen
+heron
+hoatzin
+hoopoe
+hummingbird
+ibis
+jay
+junglefowl
+kakapo
+kea
+kingfisher
+kiwi
+landfowl
+lovebird
+macaw
+magpie
+mallard
+messenger pigeon
+moorhen
+mourning dove
+myna
+nightingale
+osprey
+ostrich
+owl
+paleognathe
+parakeet
+parrot
+partridge
+peacock
+peafowl
+peahen
+pelican
+penguin
+perching bird
+peregrine falcon
+pheasant
+pigeon
+potoo
+puffin
+quail
+rail bird
+raptor
+raven
+red junglefowl
+red-crowned crane
+red-tailed hawk
+release dove
+rhea
+roadrunner
+rock dove
+rook
+rooster
+sandpiper
+seagull
+shoebill stork
+snowy owl
+songbird
+sparrow
+spur-winged goose
+starling
+stork
+swallow
+swan
+tit
+titmouse
+toucan
+turkey
+vulture
+wader
+waterfowl
+wigeon
+wild turkey
+woodpecker
