@@ -1,0 +1,113 @@
+// Source: https://en.wikipedia.org/wiki/List_of_cat_breeds
+
+Abyssinian
+Aegean
+American Bobtail
+American Curl
+American Ringtail
+American Shorthair
+American Wirehair
+Aphrodite Giant
+Arabian Mau
+Asian
+Asian Semi-longhair
+Australian Mist
+Balinese
+Bambino
+Bengal
+Birman
+Bombay
+Brazilian Shorthair
+British Longhair
+British Shorthair
+Burmese
+Burmilla
+California Spangled
+Chantilly-Tiffany
+Chartreux
+Chausie
+Chinese Li Hua
+Colorpoint Longhair
+Colorpoint Persian
+Colorpoint Shorthair
+Cornish Rex
+Cymric
+Cyprus
+Devon Rex
+Don Sphynx
+Donskoy
+Dragon Li
+Dwelf
+Egyptian Mau
+European Shorthair
+Exotic Shorthair
+Foldex
+German Rex
+Havana Brown
+Highlander
+Himalayan
+Japanese Bobtail
+Javanese
+Kanaani
+Khao Manee
+Kinkalow
+Korat
+Korean Bobtail
+Korn Ja
+Kuril Islands Bobtail
+Kurilian Bobtail
+Lambkin
+LaPerm
+Liebling
+Lykoi
+Maine Coon
+Manx
+Mekong Bobtail
+Minskin
+Minuet
+Munchkin
+Mutation
+Nebelung
+Neva Masquerade
+Norwegian Forest Cat
+Ocicat
+Ojos Azules
+Oregon Rex
+Oriental Bicolor
+Oriental Longhair
+Oriental Shorthair
+Persian
+Persian
+Peterbald
+Pixie-bob
+Raas
+Ragamuffin
+Ragdoll
+Russian Blue
+Russian White
+Sam Sawet
+Savannah
+Scottish Fold
+Selkirk Rex
+Serengeti
+Serrade Petit
+Siamese
+Siberian
+Siberian Forest Cat
+Singapura
+Snowshoe
+Sokoke
+Somali
+Sphynx
+Suphalak
+Thai
+Thai Lilac
+Tonkinese
+Toybob
+Toyger
+Turkish Angora
+Turkish Van
+Turkish Vankedisi
+Ukrainian Levkoy
+Wichien Maata
+York Chocolate

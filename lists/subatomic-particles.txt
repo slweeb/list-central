@@ -1,0 +1,51 @@
+alpha particle
+anti-W boson
+antilepton
+antimuon
+antineutrino
+antineutron
+antiparticle
+antiproton
+antiquark
+antitau
+atomic nucleus
+baryon
+boson
+bottom antiquark
+bottom quark
+charm antiquark
+charm quark
+down antiquark
+down quark
+electron
+electron antineutrino
+electron neutrino
+fermion
+gauge boson
+gluon
+graviton
+hadron
+Higgs boson
+lepton
+meson
+muon
+muon antineutrino
+muon neutrino
+neutrino
+neutron
+nucleon
+photon
+positron
+proton
+quark
+strange antiquark
+strange quark
+tau antineutrino
+tau lepton
+tau neutrino
+top antiquark
+top quark
+up antiquark
+up quark
+W boson
+Z boson

@@ -1,8 +1,13 @@
 Adélie penguin
+African penguin
 albatross
+auk
+avocet
 bald eagle
 barn owl
 bird-of-paradise
+black swan
+blackbird
 blue jay
 blue-footed booby
 bluebird
@@ -12,26 +17,35 @@ Canadian goose
 canary
 caracara
 cardinal
+Carolina parakeet
 cassowary
-chick
 chick
 chickadee
 chicken
+chocobo
+chough
 cockatiel
 cockatoo
+cockatrice
 condor
+coot
 cormorant
 corvid
 crane
+crested penguin
 crow
 cuckoo
+curlew
+dodo
 domestic duck
 domestic pigeon
 domestic turkey
+dotterel
 dove
 duck
 duckling
 eagle
+elephant bird
 emperor penguin
 emu
 falcon
@@ -42,11 +56,17 @@ flightless bird
 fowl
 galah
 Galápagos finch
+giant teratorn
+golden eagle
 goldfinch
 goose
 gray parrot
 great tit
+griffin
+grouse
 guineafowl
+harpy
+harpy eagle
 hawk
 hen
 heron
@@ -54,25 +74,39 @@ hoatzin
 hoopoe
 hummingbird
 ibis
+jackdaw
 jay
+junco
 junglefowl
 kakapo
 kea
 kingfisher
 kiwi
+kookaburra
 landfowl
+lark
+linnet
+loon
+lorikeet
 lovebird
+lyrebird
 macaw
 magpie
 mallard
 messenger pigeon
+moa
+mockingbird
 moorhen
 mourning dove
 myna
+nene
+nighthawk
 nightingale
+nightjar
 osprey
 ostrich
 owl
+oxpecker
 paleognathe
 parakeet
 parrot
@@ -85,10 +119,14 @@ penguin
 perching bird
 peregrine falcon
 pheasant
+phoenix
 pigeon
+plover
 potoo
+prairie chicken
 puffin
 quail
+quetzal
 rail bird
 raptor
 raven
@@ -98,27 +136,41 @@ red-tailed hawk
 release dove
 rhea
 roadrunner
+robin
 rock dove
 rook
 rooster
 sandpiper
+scarlet macaw
+seabird
 seagull
 shoebill stork
 snowy owl
 songbird
 sparrow
+sphinx
+spotted owl
 spur-winged goose
 starling
 stork
 swallow
 swan
+tanager
+tern
+terror bird
+thrush
+thunderbird
 tit
 titmouse
 toucan
 turkey
 vulture
 wader
+wagtail
+warbler
 waterfowl
 wigeon
 wild turkey
+woodcock
 woodpecker
+wren

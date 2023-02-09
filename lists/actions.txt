@@ -1,0 +1,516 @@
+3D printing
+abandoned
+abolition
+abortion
+abrasion
+abuse
+academic discipline
+acceptance
+accident
+account suspension
+accounting
+achieving
+acknowledgement
+acting
+activation
+addiction
+adhesion
+advertising
+aeration
+agility
+agreement
+agriculture
+alchemy
+alcoholism
+allowing
+alphabetically sorting
+anatomy
+angle measurement
+animal sound
+answering
+anthropology
+appending
+applying
+archaeology
+archery
+arrival
+art
+asking
+assassination
+assigning
+astronomy
+astrophysics
+attacking
+attempting
+augmented reality
+aviation
+awaking
+baking
+bark
+bathing
+beekeeping
+befriending
+biology
+blending
+blinking
+blogging
+blowing
+board game
+board game move
+boating
+body language
+boiling
+bookmarking
+borrowing
+botany
+breaking
+breathing
+brushing
+buzz
+calculation
+carrying
+censorship
+checking in
+checking out
+chemistry
+choosing
+cleaning
+click
+climbing
+clinical trial
+clipping
+combination
+comedy
+commenting
+communication
+comparison
+competition result
+complaining
+completion
+concert
+confirmation
+consuming
+controlling
+conversion
+cooking
+cosmology
+coughing
+counting
+course
+court case
+creation
+crime
+crosspost
+crying
+cuddling
+cutting
+cutting hair
+cybercrime
+cycling
+dancing
+date-telling
+dating
+deactivation
+debate
+debugging
+decision
+decompression
+decryption
+deep frying
+defense
+deletion
+depositing
+desalination
+desire
+detection
+determining
+diagnosis
+digging
+digital interaction
+digital messaging
+directing
+direction-telling
+disagreement
+disallowing
+discovery
+dislike
+display of affection
+distillation
+distribution
+domestication
+donating
+downloading
+downpayment
+draw
+drawing
+drawing guiding
+drinking
+drinkmaking
+driving
+duplication
+earth science
+eating
+ecology
+ejaculation
+electrical measurement
+emailing
+emoji reaction
+encryption
+endorsement
+engineering
+enlistment
+enrollment
+entering
+equipping
+erasure
+esport
+exam
+examination
+excitement
+exercise
+exhaling
+expectation
+extended reality
+facial expression
+failure
+fast forwarding
+fastening
+fasting
+fermentation
+fever
+fictional action
+field of study
+fifth button click
+filming
+filtration
+finance
+firestarting
+fishing
+fist
+fixing
+flight
+focus
+forgetting
+fourth button click
+frying
+gambling
+game
+gamemode
+gameplay
+gathering
+genetics
+geography
+geology
+giving
+grabbing
+graduation
+grating
+grilling
+grinding
+group call
+group video call
+hacking
+hairstyling
+hallucination
+hand gesture
+handshake
+harming
+harmony
+haunting
+headache
+healthcare
+hearing
+helping
+hiccuping
+hiding
+high five
+history
+hitting
+hobby
+holding
+hope
+howl
+hugging
+hunger
+ignoring
+image editing
+immune response
+incubation
+informing
+inhaling
+injection
+installing
+interpersonal hand gesture
+interview
+introducing
+invention
+inviting
+journalism
+journey
+judgement
+jumping
+keeping
+keyboard event
+kicking
+killing
+kissing
+laughing
+laying down
+leading
+leaving
+lecture
+left click
+lending
+length measurement
+levitation
+lifting
+like
+locating
+locking
+loss
+lying
+magic
+magnification
+management
+manner of word derivation
+manslaughter
+manufacturing
+mapmaking
+marketing
+marriage
+mass murder
+masturbation
+mathematics
+measurement
+medical procedure
+meditation
+meeting
+meow
+metaphysics
+meteorology
+microblogging
+middle click
+mining
+mixing
+mixology
+mobile game
+mountain climbing
+mounting
+mouse event
+music production
+musical
+natural science
+navigation
+need
+non-penetrative sex
+nuclear fusion
+obedience
+obsession
+offering
+online course
+online interaction
+online rating
+ordering
+orgasm
+ownership
+pain
+painting
+parade
+paying
+perception
+performance
+performing art
+philosophy
+phone call
+photographing
+physics
+physiology
+picnic
+piercing
+planning
+planting
+play
+pleading
+pointing
+poking
+political science
+pose
+posting
+potion brewing
+praying
+pre-ordering
+preparation
+prepending
+presentation
+pressure cooking
+pressure measurement
+prevention
+printing
+programming
+promoting
+pseudoscience
+psychology
+public speaking
+publishing
+punishment
+purchasing
+putting down
+puzzle
+quantum physics
+quote post
+quote reblog
+reaction
+reading aloud
+reblog
+receiving
+recreation
+recruitment
+recycling
+redoing
+reflex
+refraining
+refusal
+registration
+reimbursement
+relaxing
+remembering
+renting
+repeating
+research
+reserving
+restoration
+returning
+reusing
+reviewing
+rewinding
+right click
+roar
+roasting
+RSVP
+rubbing
+running
+save
+saving
+scheduling
+science
+scrolling
+searching
+selling
+sending
+sewing
+sex act
+sex position
+sexual intercourse
+shapeshifting
+share
+shaving
+shocking
+shooting
+shortness of breath
+shouting
+shredding
+signing
+sin
+singing
+sitting
+sketching
+skipping
+slapping
+sleep
+slitting
+smelling
+smithing
+smoking
+social science
+software testing
+solving
+sorting
+space travel
+speaking
+speech
+speedometry
+sport
+stabbing
+steaming
+stinging
+stirring
+stomach ache
+styling
+subscribing
+success
+suicide
+sum
+support
+surgery
+sweeping
+swimming
+swinging
+taking
+talking
+tasting
+teaching
+technology
+teleportation
+terrorism
+testing
+texting
+therapy
+thermometry
+thirst
+throwing
+time-telling
+timing
+tipping
+toasting
+touching
+tracking
+trade
+translation
+transportation
+trial
+typing
+UI event
+undoing
+unfastening
+unit conversion
+unlocking
+unregistration
+unsubscribing
+updating
+usage
+use status
+vaccination
+video chatting
+video game
+video playback
+video scrubbing
+view
+virtual reality
+vision
+visual novel
+voice chatting
+volume measurement
+voting
+waiting
+walking
+walking in place
+warning
+watching
+wearing
+weather forecast
+web browsing
+web searching
+weighing
+wheezing
+whispering
+whistling
+wholesaling
+win
+winking
+withdrawing
+word game
+word search
+working
+writing
+yawning
+zoology
